@@ -2,16 +2,19 @@
    "count":3,
    "data":[
       {
+         "id": 1,
          "type": "Balcony",
          "quantity": 12,
          "price": 100000
       },
       {
+         "id": 2,
          "type": "Lower Level",
          "quantity": 20,
          "price": 700
       },
       {
+         "id": 3,
          "type": "CourtSide",
          "quantity": 15,
          "price": 1500
